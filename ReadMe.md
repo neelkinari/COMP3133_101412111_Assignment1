@@ -20,5 +20,5 @@ This project is a **GraphQL API** built using **Node.js, Express, and MongoDB**.
 ## **🔧 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/COMP3133_Assignment_1.git
+git clone https://github.com/neelkinari/COMP3133_101412111_Assignment1.git
 cd COMP3133_Assignment_1
